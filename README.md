@@ -11,11 +11,11 @@ This is a Flutter application showcasing a travel guide UI for various destinati
 ## Screenshots
 
 ### Fairy Meadows
-![Fairy Meadows](./images/trip.png)
+![Fairy Meadows](./assets/images/trip.png)
 *Fairy Meadows* is a lush green plateau at the base of Nanga Parbat. It offers some of the most stunning views in the world, making it the perfect gateway to experience the grandeur of the Himalayas.
 
 ### K2 BaseCamp
-![K2 BaseCamp](./images/trip1.png)
+![K2 BaseCamp](./assets/images/trip1.png)
 *K2 BaseCamp* is located at the base of the second-highest mountain in the world, K2. Known as the "Savage Mountain," K2 challenges even the most skilled mountaineers. The awe-inspiring peak in the Karakoram Range is a true test of endurance and spirit.
 
 ## Installation
