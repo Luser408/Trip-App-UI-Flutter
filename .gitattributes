@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Prioritize Dart
+*.dart linguist-detectable=true
+
+# Mark CMake files as vendored (ignored for language stats)
+CMakeLists.txt linguist-vendored
+*.cmake linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
